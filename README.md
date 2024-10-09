@@ -2,6 +2,8 @@
 
 Dette er en enkel værmelding nettside som lar brukere hente gjeldende værforhold og en 24 timers værmelding for enhver by. Den henter data fra [OpenWeatherMap API](https://openweathermap.org/api) og viser værinformasjon, temperatur, værbeskrivelse og timevarsel.
 
+<br />
+
 ## Funksjoner
 - Få aktuell værinformasjon for en valgt by.
 - Vis temperatur, værforhold og et tilsvarende værikon.

@@ -74,9 +74,6 @@ Noen utfordringer under utviklingen av denne nettsiden:
 - Forbedre brukeropplevelsen ved å legge til lasteindikatorer under API-forespørslene.
 - Legg til flere lokaliseringsalternativer, for eksempel å hente værdata på forskjellige enheter eller språk.
 <br />
-<br />
-
-# Angående Bruk av Farger og Kontrast
 
 ## Rikitig bruk av fargekontrast
 ![image_alt](https://github.com/UsamDaw/Weather-Today-API/blob/main/ColorAdobeExample.png?raw=true)
@@ -91,4 +88,4 @@ Noen utfordringer under utviklingen av denne nettsiden:
 ### Kontrastforhold av Adobe color
 ![image_alt](https://github.com/UsamDaw/Weather-Today-API/blob/main/Screenshot%202024-10-09%20125832.png?raw=true)
 
-#### Du kan bruke fargekontrastanalysatoren som er tilgjengelig på https://color.adobe.com/create/color-contrast-analyzer for å vurdere synligheten til farger for brukerne av nettstedet ditt
+#### Du kan bruke fargekontrast analysatoren som er tilgjengelig på https://color.adobe.com/create/color-contrast-analyzer for å vurdere synligheten til farger for brukerne av nettstedet ditt.

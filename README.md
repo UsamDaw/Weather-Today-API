@@ -75,6 +75,7 @@ Noen utfordringer under utviklingen av denne nettsiden:
 - Legg til flere lokaliseringsalternativer, for eksempel å hente værdata på forskjellige enheter eller språk.
 <br />
 <br />
+
 # Angående Bruk av Farger og Kontrast
 
 ## Rikitig bruk av fargekontrast

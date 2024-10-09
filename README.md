@@ -1,6 +1,5 @@
 # Værmeldingsnettside
 
-## Oversikt
 Dette er en enkel værmelding nettside som lar brukere hente gjeldende værforhold og en 24 timers værmelding for enhver by. Den henter data fra [OpenWeatherMap API](https://openweathermap.org/api) og viser værinformasjon, temperatur, værbeskrivelse og timevarsel.
 
 ## Funksjoner
@@ -74,11 +73,8 @@ Noen utfordringer under utviklingen av denne nettsiden:
 - Legg til funksjonalitet for å vise mer detaljert prognoseinformasjon (f.eks. ukentlig prognose).
 - Forbedre brukeropplevelsen ved å legge til lasteindikatorer under API-forespørslene.
 - Legg til flere lokaliseringsalternativer, for eksempel å hente værdata på forskjellige enheter eller språk.
-
-## Lisens
-Dette prosjektet er åpen kildekode og gratis å bruke under MIT-lisensen.
-
-
+<br />
+<br />
 # Angående Bruk av Farger og Kontrast
 
 ## Rikitig bruk av fargekontrast
